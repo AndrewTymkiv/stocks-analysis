@@ -77,4 +77,18 @@
 
 ![VBA_Challenge_2017](https://github.com/AndrewTymkiv/stocks-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
 
+![VBA_Challenge_2018](https://github.com/AndrewTymkiv/stocks-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
+### Returns
+
+![2017_Returns](https://github.com/AndrewTymkiv/stocks-analysis/blob/main/Resources/2017_Returns.PNG)
+
+![2018_Returns](https://github.com/AndrewTymkiv/stocks-analysis/blob/main/Resources/2018_Returns.PNG)
+
+---
+## Summary
+### Advantages and Disadvantages of Refactoring Code
+#### The clear advantage of refactoring code is that if done correctly, like done here, it can result in a code that runs much more efficiently. However, in contrast, a disadvantage of refactoring code is that if your refactored code is filled with errors then it is not usable, unlike the original code which although inefficient, still ran. For this reason, we should always save the original code just in case we are unable to refactor it correctly.
+
+### Advantages and Disadvantages of Refactoring in VBA Script
+#### One advantage of refactoring in VBA Script is that you can keep both the original and the refactored code in the same xlsm file as different macros. This helps to compare between the two sets of code as well as keep some portions of the code the same. However, a disadvantage of this is struggling to keep the formatting and syntax constant if some parts of your code are refactored and some are kept from the original.
