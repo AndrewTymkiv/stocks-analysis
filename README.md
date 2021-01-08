@@ -73,7 +73,7 @@
     Next k
     
 ### Times
-#### The MsgBox part of the code tells me how quickly the analysis ran for each year and the results show that the refactored code runs more efficiently because the time is quick.
+#### The MsgBox part of the code tells me how quickly the analysis ran for each year and the results show that the refactored code runs more efficiently because the code ran faster than previous instances with the older code.
 
 ![VBA_Challenge_2017](https://github.com/AndrewTymkiv/stocks-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
 
