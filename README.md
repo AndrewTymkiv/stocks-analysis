@@ -5,4 +5,14 @@
 ---
 ## Results
 ### 1. Create a ticker index and 3 output arrays
-#### First I had to create a tickerIndex variable and set it equal to zero so it could be used across the 4 different arrays in the code. Next, I had to add 3 arrays in addition to the 'tickers' array which were 'tickerVolumes', 'tickerStartingPrices', and 'tickerEndingPrices'.
+#### First I had to create a tickerIndex variable and set it equal to zero so it could be used across the 4 different arrays in the code. Next, I had to add 3 arrays in addition to the tickers array; tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
+   '1a) Create a ticker Index
+    Dim tickerIndex As Single
+    tickerIndex = 0
+    
+    '1b) Create three output arrays
+    Dim tickerVolumes(12) As Long
+    Dim tickerStartingPrices(12) As Single
+    Dim tickerEndingPrices(12) As Single
+
+### 2. 
